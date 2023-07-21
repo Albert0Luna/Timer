@@ -1,0 +1,14 @@
+.timer-container {
+  display: flex;
+}
+
+.timer-count {
+  margin: auto;
+  letter-spacing: 2px;
+  font-size: 1.3rem;
+}
+
+.start,
+.stop {
+  margin: 0px 10px;
+}
